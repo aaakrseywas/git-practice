@@ -1,2 +1,2 @@
-Это файл feature.txt с произвольными изменениями.
-change in feature.txt.
+Это файл feature.txt.
+
